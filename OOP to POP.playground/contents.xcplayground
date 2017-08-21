@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='0. Object Oriented'/>
+        <page name='1. Use Protocol'/>
+        <page name='2. Use Struct'/>
+        <page name='3. Use Extension and Commonize'/>
+        <page name='4. Caution'/>
+    </pages>
+</playground>
